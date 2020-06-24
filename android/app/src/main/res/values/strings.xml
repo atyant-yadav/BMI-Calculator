@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">BMI Calc</string>
+    <string name="title_activity_main">BMI Calc</string>
+    <string name="package_name">atyant.org.BMICalculator</string>
+    <string name="custom_url_scheme">atyant.org.BMICalculator</string>
+</resources>
