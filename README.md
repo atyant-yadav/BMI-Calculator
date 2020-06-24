@@ -10,4 +10,4 @@ Technologies Used:-
 \
 \
 Web-app can be found in "build" (directory)\
-Android apk - 
+Android apk - https://github.com/atyant-yadav/BMI-Calculator/raw/master/BMI.apk
