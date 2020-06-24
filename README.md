@@ -22,4 +22,7 @@ Facebook:- https://www.facebook.com/atyant.30/
 \
 App Screenshot:-
 \
+
+\
+\
 ![alt app-preview](https://github.com/atyant-yadav/BMI-Calculator/blob/master/preview_BMI.jpeg?raw=true)
