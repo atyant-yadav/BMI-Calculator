@@ -15,6 +15,7 @@ Android apk - https://github.com/atyant-yadav/BMI-Calculator/raw/master/BMI.apk
 \
 \
 Author:- Atyant Yadav
+\
 LinkedIn:- https://www.linkedin.com/in/atyant-yadav/
 \
 Facebook:- https://www.facebook.com/atyant.30/
