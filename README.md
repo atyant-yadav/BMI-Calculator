@@ -27,4 +27,4 @@ App Screenshot:-
 
 \
 \
-![alt app-preview](https://github.com/atyant-yadav/BMI-Calculator/blob/master/preview_BMI.jpeg?raw=true)
+![alt app-preview](https://github.com/atyant-yadav/BMI-Calculator/blob/master/preview_BMI.jpeg?raw=true){:height="24px" width="48px"}
